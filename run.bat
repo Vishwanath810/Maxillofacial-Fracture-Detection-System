@@ -1,0 +1,2 @@
+python FractureDetection.py
+pause
