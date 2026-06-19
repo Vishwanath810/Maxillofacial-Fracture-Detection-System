@@ -114,8 +114,9 @@ This project demonstrates the effectiveness of Transfer Learning and Deep Learni
 
 ## Authors
 
-N. Sai Vishwanath Reddy,
+
 Shaik Fasi,
+N. Sai Vishwanath Reddy,
 P. Poojitha,
 K. Vivek Raju
 
